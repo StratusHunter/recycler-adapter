@@ -5,7 +5,7 @@ Simply create your model and then a RecyclerViewHolder subclass with an internal
 
 Just add to your build.gradle dependencies
 
-    compile 'com.stratushunter:recycleradapter:0.1'
+    compile 'com.stratushunter:recycleradapter:0.2'
 
 ## Usage
 See sample directory
