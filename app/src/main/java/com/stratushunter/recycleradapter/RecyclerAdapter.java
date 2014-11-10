@@ -1,4 +1,4 @@
-package com.bulbstudios.recycleradapter;
+package com.stratushunter.recycleradapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
