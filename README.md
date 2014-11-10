@@ -7,6 +7,9 @@ Just add to your build.gradle dependencies
 
     compile 'com.stratushunter:recycleradapter:0.1'
 
+## Usage
+See sample directory
+
 ## Author
 
 Terence Baker, stratushunter@gmail.com
